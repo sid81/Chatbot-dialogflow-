@@ -11,9 +11,11 @@ ChatBot Boilerplate using DialogFlow and Flask.
 ## DialogFlow setup
 - Creating an agent
 - Creating an Intent
+- ![image](https://user-images.githubusercontent.com/68815179/199176367-c7ed8fe6-6cd1-48a4-8aec-a44f2ad23d34.png)
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/68815179/199176367-c7ed8fe6-6cd1-48a4-8aec-a44f2ad23d34.png)
+
+![Screenshot_20221101_122627](https://user-images.githubusercontent.com/68815179/199177581-3c71a3b6-f178-4f2d-9ae0-5932056463c8.jpg)
 
 ![image](https://user-images.githubusercontent.com/68815179/199175564-069a2f3e-b645-4af3-99cf-1ffc4d71ae63.png)
 
