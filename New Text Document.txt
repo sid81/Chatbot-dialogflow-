@@ -1,0 +1,11 @@
+<!doctype html>
+<html>
+<head>
+<title>Chatbot demo</title>
+
+</head>
+
+<body>
+<iframe width="350" height="430" allow="microphone;" src="https://console.dialogflow.com/api-client/demo/embedded/4d5d89af-f417-412f-9709-61f0416c189b"></iframe>
+</body>
+</html>
